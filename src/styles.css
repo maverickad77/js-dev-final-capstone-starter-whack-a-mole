@@ -71,11 +71,11 @@ h2 {
 .mole {
   /*background:url('./assets/mole.png') bottom center no-repeat;*/
   background:url('../assets/trollface2-remove.png') bottom center no-repeat;
-  background-size: 80%;
+  background-size: 60%;
   position: absolute;
-  top: 80%;
-  width: 80%;
-  height: 80%;
+  top: 40%;
+  width: 40%;
+  height: 40%;
   /*transition: transform 0.5s;*/
   transition: all 0.1s;
   pointer-events:auto;
