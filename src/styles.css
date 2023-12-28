@@ -71,9 +71,9 @@ h2 {
 .mole {
   /*background:url('./assets/mole.png') bottom center no-repeat;*/
   background:url('../assets/trollface2-remove.png') bottom center no-repeat;
-  background-size: 60%;
+  background-size: 80%;
   position: absolute;
-  top: 40%;
+  top: 80%;
   width: 40%;
   height: 40%;
   /*transition: transform 0.5s;*/
