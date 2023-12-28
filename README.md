@@ -8,6 +8,8 @@ Change the Background and added new Trees, Troll, and Sun
 
 Adjusted Scale of associated png files to fit the screen correctly
 
+Adjusted all other associated asks within the project
+
 The Project includes the following Folders:  Assets, SRC, Test... and includes the following Files:  .gitgnore, index.html, jest.config.js, ReadMe, Testing.js, and associated JSON packages
 
 The project has also been tested on replit.com
