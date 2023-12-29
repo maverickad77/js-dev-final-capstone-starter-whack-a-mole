@@ -71,7 +71,7 @@ h2 {
 .mole {
   /*background:url('./assets/mole.png') bottom center no-repeat;*/
   background:url('../assets/trollface2-remove.png') bottom center no-repeat;
-  background-size: 80%;
+  background-size: 50%;
   position: absolute;
   top: 80%;
   width: 80%;
@@ -131,3 +131,4 @@ h2 {
   width: fit-content;
   padding: 0 10 0 10;
 }
+
