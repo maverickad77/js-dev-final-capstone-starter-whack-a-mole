@@ -76,7 +76,7 @@ h2 {
   top: 80%;
   width: 80%;
   height: 80%;
-  left: 50%;
+  left: 20%;
   /*transition: transform 0.5s;*/
   transition: all 0.1s;
   pointer-events:auto;
